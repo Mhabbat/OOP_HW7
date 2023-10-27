@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1dba2daa-1164-47e0-a23e-f74ff36a1cbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_HW7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork7/JobAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Master.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Middle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork7/Vacancy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2XL2VUx0bOuBaBbZ6cgYXxYM0Fv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/lenovo/IdeaProjects/OOP_HW7/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dba2daa-1164-47e0-a23e-f74ff36a1cbb" name="Changes" comment="" />
+      <created>1698394063163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698394063163</updated>
+    </task>
+    <servers />
+  </component>
+</project>
